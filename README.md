@@ -7,7 +7,6 @@
 + override.tf.json  игнорим файл
 + *_override.tf      игнорим все файлы в названии которых есть _override c расширением tf
 + *_override.tf.json игнорим все файлы в названии которых есть _override.tf c расширением json
-+ .terraformrc    игнорим файл  .terraformrc
-+ terraform.rc    игнорим файл  terraform.rc # devops-netologyHello
-+ test
++ .terraformrc    игнорим файл  .terraformrc+ terraform.rc    игнорим файл  terraform.rc # devops-netologyHello
+
 
