@@ -1,0 +1,28 @@
+*       * b5bae68 (origin/fix) Commit 2 from IDE
+*       * 84a525f Commit 1 from IDE
+*       * 21721fa (HEAD -> fix) Change Readme.md Hamework 2.2
+*       | * 6f6faab (main) Control Save
+*       | * 995a07b (tag: v0.1, tag: v0.0, origin/main, origin/HEAD, gitlab/main, bitbucket/main) test diff
+*       | * 1ddcffc Update README.md
+*       | *   97e5fcb Merge branch 'main' of github.com:Artegro/devops-netology into main Update local
+*       | |\
+*       | | * 1d11557 Update README.md
+*       | * | 5154751 Moved and deleted 2
+*       |/ /
+*       * | 836afef Prepare to delete and move 2
+*       |/
+*       * c130473 Moved and deleted
+*       * f01cb08 Moved and deleted
+*       * e286d01 Prepare to delete and move
+*       * f60fd1c Moved and deleted
+*       * 05b61c2 Added gitignore
+*       * b56e90e **/.terraform/*    игнорим все влоденные каталоги с названием .terraform
+*       * db4e304 First Commit
+*       * d3e8b49 Initial commit
+*       root@Test:/home/art/devops-netology/devops-netology# git remote -v
+*       bitbucket       git@bitbucket.org:artegro/devops-netology.git (fetch)
+*       bitbucket       git@bitbucket.org:artegro/devops-netology.git (push)
+*       gitlab  git@gitlab.com:Artegro1/devops-netology.git (fetch)
+*       gitlab  git@gitlab.com:Artegro1/devops-netology.git (push)
+*       origin  git@github.com:Artegro/devops-netology.git (fetch)
+*	origin  git@github.com:Artegro/devops-netology.git (push)
