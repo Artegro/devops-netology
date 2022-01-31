@@ -12,4 +12,4 @@
 *       terraform.rc    игнорим файл  terraform.rc # devops-netologyHello
 
 New String
-
+Nex main
