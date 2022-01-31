@@ -11,10 +11,8 @@
 *       .terraformrc    игнорим файл  .terraformrc
 *       terraform.rc    игнорим файл  terraform.rc # devops-netologyHello
 
-New String
 
-Nex main
-
-
-*	Fix2
+*	New String
+*	Nex main
+*	New test rebase
 
